@@ -1,0 +1,51 @@
+{
+  "exampleNotice": "FICTIONAL DEMO: all observations and participants below are invented for software testing, not interviews.",
+  "expert": {
+    "name": "Fictional independent reading tutor",
+    "field": "Early English reading for Indian children",
+    "experienceYears": 10,
+    "audience": "Parents of children aged 4 to 8"
+  },
+  "opportunities": [
+    {
+      "id": "sound-out-words",
+      "problem": "Parents cannot tell whether a child reads words or guesses using illustrations.",
+      "audience": "Parents supporting early English readers at home",
+      "outcome": "helping children sound out unfamiliar words with short, repeatable practice",
+      "deliverable": "seven-day guided phonics practice kit",
+      "whyExpert": "Ten years of practical tutoring and lesson adaptation for early readers",
+      "priceINR": 499,
+      "signals": { "urgency": 5, "frequency": 5, "paidIntent": 4, "expertFit": 5, "deliverability": 5 },
+      "evidence": [
+        { "sourceId": "fictional-parent-a", "observation": "The child memorises pages but gets stuck on new words." },
+        { "sourceId": "fictional-parent-b", "observation": "We need ten-minute home activities that fit after work." },
+        { "sourceId": "fictional-parent-c", "observation": "I'd consider paying for a step-by-step reading routine." }
+      ]
+    },
+    {
+      "id": "teacher-reading-audit",
+      "problem": "Parents want to know their child's current reading level.",
+      "audience": "Parents with children learning to read",
+      "outcome": "spotting which basic reading sounds need practice",
+      "deliverable": "guided parent reading checkup",
+      "whyExpert": "An educator who has assessed reading progress in multiple school contexts",
+      "priceINR": 799,
+      "signals": { "urgency": 4, "frequency": 4, "paidIntent": 3, "expertFit": 5, "deliverability": 4 },
+      "evidence": [
+        { "sourceId": "fictional-parent-d", "observation": "I'm unsure what to practise first." },
+        { "sourceId": "fictional-parent-e", "observation": "An assessment could help me identify gaps." }
+      ]
+    },
+    {
+      "id": "generic-ai-coloring-pack",
+      "problem": "A generic bundle might be easy to publish.",
+      "audience": "All parents",
+      "outcome": "printing unrelated coloring pages",
+      "deliverable": "AI-generated coloring bundle",
+      "whyExpert": "No distinctive expert process or teaching outcome",
+      "priceINR": 299,
+      "signals": { "urgency": 2, "frequency": 2, "paidIntent": 1, "expertFit": 1, "deliverability": 5 },
+      "evidence": []
+    }
+  ]
+}
